@@ -1,0 +1,40 @@
+body {
+    font-family: 'Poppins' !important;
+}
+
+.logo {
+    width: 111px;
+    height: 111px;
+}
+.header {
+    max-height: 369px;
+    background-color: #F8F8F8 !important;
+}
+
+.header-titles {
+    color: #451A64 ;
+    line-height: 30px;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.nav-link-art {
+  height: 30px;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 400;
+  color: #000;
+}
+
+.intro-img{
+max-height: 613px;
+gap: 0px;
+opacity: 0px;
+}
+.intro-div {
+max-height: 404px;
+gap: 0px;
+opacity: 0px;
+background: #FFFFFFD1;
+
+}
